@@ -1,6 +1,6 @@
 🏦Bank Management System
 
-*Project Overview:
+* Project Overview:
 
 Developed a comprehensive Java-based Bank Management System integrated with MySQL. This project facilitates seamless banking operations including user login, registration, deposit, withdrawal, and money transfer functionalities.
 
